@@ -1,0 +1,82 @@
+[
+    {
+        "nome": "Centro Comunitário A",
+        "endereco":{
+            "rua": "Rua A",
+            "numero": 123,
+            "bairro": "Bairro A",
+            "cidade": "Cidade A"
+        },
+        "lotacao_atual": 50,
+        "lotacao_maxima": 100,
+        "recursos": {
+            "Médico": 1,
+            "Voluntário": 2,
+            "Kit de suprimentos médicos": 1
+        }
+    },
+    {
+        "nome": "Centro Comunitário B",
+        "endereco": {
+            "rua": "Rua B",
+            "numero": 456,
+            "bairro": "Bairro B",
+            "cidade": "Cidade B"
+        },
+        "lotacao_atual": 75,
+        "lotacao_maxima": 150,
+        "recursos": {
+            "Veículo de transporte": 1,
+            "Cesta básica": 3,
+            "Médico": 1
+        }
+    },
+    {
+        "nome": "Centro Comunitário C",
+        "endereco":{
+            "rua": "Rua C",
+            "numero": 789,
+            "bairro": "Bairro C",
+            "cidade": "Cidade C"
+        },
+        "lotacao_atual": 30,
+        "lotacao_maxima": 80,
+        "recursos": {
+            "Voluntário": 2,
+            "Kit de suprimentos médicos": 1,
+            "Cesta básica": 1
+        }
+    },
+    {
+        "nome": "Centro Comunitário D",
+        "endereco":{
+            "rua": "Rua D",
+            "numero": 101,
+            "bairro": "Bairro D",
+            "cidade": "Cidade D"
+        },
+        "lotacao_atual": 20,
+        "lotacao_maxima": 70,
+        "recursos": {
+            "Médico": 1,
+            "Voluntário": 1,
+            "Veículo de transporte": 1
+        }
+    },
+    {
+        "nome": "Centro Comunitário E",
+        "endereco":{
+            "rua": "Rua E",
+            "numero": 202,
+            "bairro": "Bairro E",
+            "cidade": "Cidade E"
+        },
+        "lotacao_atual": 60,
+        "lotacao_maxima": 120,
+        "recursos": {
+            "Kit de suprimentos médicos": 1,
+            "Cesta básica": 2,
+            "Voluntário": 1
+        }
+    }
+]

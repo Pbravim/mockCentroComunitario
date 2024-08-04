@@ -1,0 +1,7 @@
+[
+    { "nome": "Médico", "pontos": 4 },
+    { "nome": "Voluntário", "pontos": 3 },
+    { "nome": "Kit de suprimentos médicos", "pontos": 7 },
+    { "nome": "Veículo de transporte", "pontos": 5 },
+    { "nome": "Cesta básica", "pontos": 2 }
+]
